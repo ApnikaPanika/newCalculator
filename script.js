@@ -27,10 +27,6 @@ const Divide = (skaitlis1, skaitlis2) => {
     return Number(skaitlis1) / Number(skaitlis2)
 }
 
-//=
-
-//===
-
 const resetValues = () => {
     input1.value = ""
     input2.value = ""
